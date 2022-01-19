@@ -23,3 +23,11 @@ The bot is based on the original work done by [PaulSonOfLars](https://github.com
 Zero Two has been modified in order to fulfil needs in [AniRena](t.me/ArenaComs). This is not an original work and all the credit goes to [Anime Kaizoku](https://github.com/AnimeKaizoku).
 
 Visit us at [FranXX Health System](https://t.me/FranXXSupport) to add anything if left out or simply submit a pull request on the readme.
+
+
+# DEPLOY
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Official-afk-xD/zeroTwo">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
+
+## Group Support:
